@@ -1,4 +1,6 @@
 # Identifying High-Risk Areas for Traffic Collisions in Montgomery, Maryland
+[Full paper](artifacts/Identifying%20High-risk%20areas%20for%20traffic%20collisions%20in%20Montgomery.pdf)
+
 
 This repository presents the findings and methodologies from the study **"Identifying High-Risk Areas for Traffic Collisions in Montgomery, Maryland Using KDE and Spatial Autocorrelation Analysis"**. The study investigates spatial patterns of road traffic collisions in Montgomery County, Maryland, from 2015 to 2024, using geospatial statistical techniques to identify hotspots and clusters.
 
@@ -8,4 +10,9 @@ Despite a global decline in motor vehicle crash fatalities due to improved resea
 **Keywords: Road collisions analysis; Spatial Autocorrelation; Geographic Information System; Hotspots detection**
 
 
-![LISA total crashes]("media/lisa_cluster_total_crashes.png")
+*Figure 1: Collision density KDE for total crashes and severe only crashes*
+![LISA total crashes](media/kde_plots1.png)
+
+
+*Figure 2: LISA for crashes in cencus tracts (significance level = 0.05)*
+![LISA total crashes](media/lisa_cluster_total_crashes.png)
