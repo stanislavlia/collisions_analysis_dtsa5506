@@ -12,7 +12,3 @@ Despite a global decline in motor vehicle crash fatalities due to improved resea
 
 *Figure 1: Collision density KDE for total crashes and severe only crashes*
 ![LISA total crashes](media/kde_plots1.png)
-
-
-*Figure 2: LISA for crashes in cencus tracts (significance level = 0.05)*
-![LISA total crashes](media/lisa_cluster_total_crashes.png)
